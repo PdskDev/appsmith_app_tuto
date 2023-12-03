@@ -22,10 +22,7 @@
     "parentColumnSpace": 6.84375,
     "dynamicTriggerPathList": [{"key": "onClick"}],
     "leftColumn": 7,
-    "dynamicBindingPathList": [
-        {"key": "buttonColor"},
-        {"key": "borderRadius"}
-    ],
+    "dynamicBindingPathList": [{"key": "buttonColor"}],
     "text": "Send",
     "isDisabled": false,
     "key": "gz8tq5t9ux",
@@ -45,7 +42,7 @@
     "mobileTopRow": 40,
     "responsiveBehavior": "hug",
     "disabledWhenInvalid": false,
-    "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
+    "borderRadius": "1.5rem",
     "mobileLeftColumn": 22,
     "buttonVariant": "PRIMARY",
     "iconAlign": "left",
